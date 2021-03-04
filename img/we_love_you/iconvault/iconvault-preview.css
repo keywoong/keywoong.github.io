@@ -1,0 +1,74 @@
+/*
+ * Created with iconvau.lt
+ */
+
+@font-face {
+  font-family: "iconvault";
+  src: url("iconvault_a63e96cfcee7f8d12255558f3e47d307.eot");
+  src: url("iconvault_a63e96cfcee7f8d12255558f3e47d307.eot?#iefix") format("embedded-opentype"),
+       url("iconvault_a63e96cfcee7f8d12255558f3e47d307.woff") format("woff"),
+       url("iconvault_a63e96cfcee7f8d12255558f3e47d307.ttf") format("truetype"),
+       url("iconvault_a63e96cfcee7f8d12255558f3e47d307.svg#iconvault") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+.icon-copy:before,
+.icon-upload:before,
+.icon-zoom_out:before,
+.icon-cloud:before,
+.icon-clock:before,
+.icon-like:before,
+.icon-lock:before,
+.icon-calendar:before,
+.icon-help:before,
+.icon-mail:before,
+.icon-search:before,
+.icon-list:before,
+.icon-play:before,
+.icon-download:before,
+.icon-sun:before,
+.icon-image:before,
+.icon-settings:before,
+.icon-close:before,
+.icon-add:before,
+.icon-zoom:before,
+.icon-email:before,
+.icon-chat:before,
+.icon-rain:before,
+.icon-attention:before {
+  font-family: "iconvault";
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  display: inline-block;
+  text-decoration: inherit;
+}
+
+.icon-copy:before { content: "\f100"; }
+.icon-upload:before { content: "\f101"; }
+.icon-zoom_out:before { content: "\f102"; }
+.icon-cloud:before { content: "\f103"; }
+.icon-clock:before { content: "\f104"; }
+.icon-like:before { content: "\f105"; }
+.icon-lock:before { content: "\f106"; }
+.icon-calendar:before { content: "\f107"; }
+.icon-help:before { content: "\f108"; }
+.icon-mail:before { content: "\f109"; }
+.icon-search:before { content: "\f10a"; }
+.icon-list:before { content: "\f10b"; }
+.icon-play:before { content: "\f10c"; }
+.icon-download:before { content: "\f10d"; }
+.icon-sun:before { content: "\f10e"; }
+.icon-image:before { content: "\f10f"; }
+.icon-settings:before { content: "\f110"; }
+.icon-close:before { content: "\f111"; }
+.icon-add:before { content: "\f112"; }
+.icon-zoom:before { content: "\f113"; }
+.icon-email:before { content: "\f114"; }
+.icon-chat:before { content: "\f115"; }
+.icon-rain:before { content: "\f116"; }
+.icon-attention:before { content: "\f117"; }

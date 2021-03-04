@@ -1,0 +1,39 @@
+{
+  "fonts": [
+    "iconvault_a63e96cfcee7f8d12255558f3e47d307.ttf",
+    "iconvault_a63e96cfcee7f8d12255558f3e47d307.woff",
+    "iconvault_a63e96cfcee7f8d12255558f3e47d307.eot",
+    "iconvault_a63e96cfcee7f8d12255558f3e47d307.svg"
+  ],
+  "templates": [
+    "iconvault-preview.html",
+    "iconvault-preview.css"
+  ],
+  "file_name": "iconvault_a63e96cfcee7f8d12255558f3e47d307",
+  "glyphs": [
+    "copy",
+    "upload",
+    "zoom_out",
+    "cloud",
+    "clock",
+    "like",
+    "lock",
+    "calendar",
+    "help",
+    "mail",
+    "search",
+    "list",
+    "play",
+    "download",
+    "sun",
+    "image",
+    "settings",
+    "close",
+    "add",
+    "zoom",
+    "email",
+    "chat",
+    "rain",
+    "attention"
+  ]
+}
